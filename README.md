@@ -1,2 +1,2 @@
 # bmiapp
-sample edited 23
+Sample
